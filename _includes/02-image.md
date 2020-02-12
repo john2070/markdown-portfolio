@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![sword](https://mcishop.azureedge.net/mciassets/w_5_0033535_caledfwlch-sword.png) 
