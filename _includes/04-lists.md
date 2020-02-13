@@ -1,4 +1,4 @@
-1. Item 1 :cat:
+1. _Item_ 1 :cat:
 2. Item 2 :dog:
 3. Item 3 _:apple:_ 
    1. Item 3a :cat:
